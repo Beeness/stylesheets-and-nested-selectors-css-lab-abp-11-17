@@ -19,3 +19,7 @@ nav ul {
 nav, ul, li {
   display: 10px;
 }
+nav a {
+  color: #007bff;
+  font-size: 18px;
+}
