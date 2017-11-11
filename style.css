@@ -16,3 +16,6 @@ nav ul {
   padding: 0;
   margin: 40px, 0, o, o;
 }
+nav, ul, li {
+  display: 10px;
+}
